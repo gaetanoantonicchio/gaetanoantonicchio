@@ -1,3 +1,6 @@
+
+
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Studies:
+<img width=70px src="assets/unipi_logo.png" /> &nbsp;
+
+* **Master's degree:** I am currently a MSc student in **Data Science and Business Informatics** @ University of _Pisa_
+* **Bachelor's degree:** I graduated in **Business Administration** @ University_of_Bari
