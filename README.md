@@ -23,3 +23,10 @@ Here are some ideas to get you started:
 
 * **Master's degree:** I am currently a MSc student in **Data Science and Business Informatics** @ University of _Pisa_
 * **Bachelor's degree:** I graduated in **Business Administration** @ University_of_Bari
+Experience abroad: 
+* **Business Diploma:** I graduated in **International Business Management** @Greystone_College_Toronto
+
+### Languages:
+- * **English**
+- * **Italian**
+- * **French**
