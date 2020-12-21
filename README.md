@@ -31,4 +31,4 @@ Experience abroad:
 ### Languages:
  * **English**: certified C2 level TOEFL iBT
  * **Italian**: first language 
- * **French**
+ * **French**: intermediate knowledge
