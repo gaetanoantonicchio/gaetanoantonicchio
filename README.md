@@ -34,7 +34,7 @@ Experience abroad:
  * **French**: intermediate knowledge
  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agaetanoantonicchio&hide=jupyter%20notebook&layout=compact&langs_count=10">
+    <img align="center" height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanoantonicchio&hide=jupyter%20notebook&layout=compact&langs_count=10">
   </a>
 </div>
 
