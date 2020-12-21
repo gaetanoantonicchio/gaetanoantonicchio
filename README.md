@@ -29,6 +29,6 @@ Experience abroad:
 * **Business Diploma:** I graduated in **International Business Management** @Greystone_College_Toronto
 
 ### Languages:
- * **English**
+ * **English** certified C2 level TOEFL iBT
  * **Italian**
  * **French**
