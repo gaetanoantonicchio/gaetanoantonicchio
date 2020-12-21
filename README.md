@@ -3,7 +3,8 @@
 
 ### Hi there 👋
 
--  I’m currently working on https://github.com/AlexPasqua/NNs-from-scratch.git 
+ I’m currently working on:
+- https://github.com/AlexPasqua/NNs-from-scratch.git 
 
 <!--
 **gaetanoantonicchio/gaetanoantonicchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +35,7 @@ Experience abroad:
  * **French**: intermediate knowledge
  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanoantonicchio&hide=jupyter%20notebook&pythonlayout=compact&langs_count=9">
+    <img align="center" height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanoantonicchio&hide=jupyter%20notebook&pythonlayout=compact&langs_count=2">
   </a>
 </div>
 
