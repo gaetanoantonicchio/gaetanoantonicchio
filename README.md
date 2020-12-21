@@ -34,8 +34,8 @@ Experience abroad:
  * **Italian**: first language 
  * **French**: intermediate knowledge
  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanoantonicchio&hide=jupyter%20notebook&pythonlayout=compact&langs_count=0">
-  </a>
-</div>
-
+### Programming languages:
+* **Python**
+* **Jupyter Notebook**
+* **KNIME**
+* **AMPL**
