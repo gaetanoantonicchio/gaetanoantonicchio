@@ -38,8 +38,7 @@ Experience abroad:
  
 ### Programming languages:
 * **Python**
-* **Jupyter Notebook**
-* **KNIME**
+* **C**
 * **AMPL**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gaetanoantonicchio)](https://github.com/anuraghazra/github-readme-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanoantonicchio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
