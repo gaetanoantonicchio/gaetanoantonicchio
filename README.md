@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * **Bachelor's degree:** I graduated in **Business Administration** @ University of Bari
 
 Experience abroad: 
-* **Business Diploma:** I graduated in **International Business Management** @Greystone College Toronto
+* **Business Diploma:** I graduated in **International Business Management** @Greystone College Toronto, Canada
 
 ### Languages:
  * **English**: certified C2 level TOEFL iBT
