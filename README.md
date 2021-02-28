@@ -6,7 +6,7 @@
 -  I’m currently working on:
    https://github.com/samucucchi/DataMining-2.git
 -  Some of my recent works💻:
-   ['NNs-from-scratch'](https://github.com/gaetanoantonicchio/NNs-from-scratch)
+   [NNs-from-scratch](https://github.com/gaetanoantonicchio/NNs-from-scratch)
 
 <!--
 **gaetanoantonicchio/gaetanoantonicchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
