@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 -  I’m currently working on:
-   https://github.com/samucucchi/DataMining-2.git
+   [DataMining-2](https://github.com/samucucchi/DataMining-2.git) | [covid19-vax-Italy-analysis](https://github.com/AlexPasqua/covid19-vax-Italy-analysis.git)
 -  Some of my recent works💻:
    [NNs-from-scratch](https://github.com/gaetanoantonicchio/NNs-from-scratch)
 
