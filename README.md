@@ -1,5 +1,7 @@
 
-
+<a href=<"https://www.linkedin.com/in/gaetano-antonicchio-a79a0114b/">
+  <img align="left" alt="Gaetano Antonicchio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ### Hi there 👋
 
