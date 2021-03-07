@@ -33,12 +33,10 @@ Here are some ideas to get you started:
 Experience abroad: 
 * **Business Diploma:** I graduated in **International Business Management** @Greystone College Toronto, Canada
 
-### Languages:
+### Languages:                                                               Programming languages:
  * **English**: certified C2 level TOEFL iBT
  * **Italian**: first language 
- * **French**: intermediate knowledge
- 
-### Programming languages:
+ * **French**: intermediate knowledge 
 * **Python**  
 * **C**
 * **SQL**     
