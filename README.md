@@ -8,7 +8,7 @@
 -  I’m currently working on:
    [DataMining-2](https://github.com/gaetanoantonicchio/DataMining-2.git) | [covid19-vax-Italy-analysis](https://github.com/AlexPasqua/covid19-vax-Italy-analysis.git) | [Algorithms&DataStructures](https://github.com/gaetanoantonicchio/algorithms_and_data_structures.git)
 -  Some of my recent works💻:
-   [NNs-from-scratch](https://github.com/gaetanoantonicchio/NNs-from-scratch)
+   [NNs-from-scratch](https://github.com/gaetanoantonicchio/NNs-from-scratch.git)
 
 <!--
 **gaetanoantonicchio/gaetanoantonicchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
