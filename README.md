@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 -  I’m currently working on:
-   [DataMining-2](https://github.com/gaetanoantonicchio/DataMining-2.git) | [Analysis on Covid19 vaccinations in Italy 🧪](https://github.com/AlexPasqua/covid19-vax-Italy-analysis.git) | [Algorithms&DataStructures](https://github.com/gaetanoantonicchio/algorithms_and_data_structures.git)
+   [Echonest Data Analysis ♫](https://github.com/gaetanoantonicchio/DataMining-2.git) | [Analysis on Covid19 vaccinations in Italy 🧪](https://github.com/AlexPasqua/covid19-vax-Italy-analysis.git) | [Algorithms&DataStructures](https://github.com/gaetanoantonicchio/algorithms_and_data_structures.git)
 -  Some of my recent works💻:
    [NNs-from-scratch](https://github.com/gaetanoantonicchio/NNs-from-scratch.git)
 
