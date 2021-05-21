@@ -6,9 +6,9 @@
 ### Hi there 👋
 
 -  I’m currently working on:
-   [Echonest Data Analysis ♫](https://github.com/gaetanoantonicchio/DataMining-2.git) | [Analysis on Covid19 vaccinations in Italy 🧪](https://github.com/AlexPasqua/covid19-vax-Italy-analysis.git) | [Algorithms&DataStructures](https://github.com/gaetanoantonicchio/algorithms_and_data_structures.git)
+    | [Analysis on Covid19 vaccinations in Italy 🧪](https://github.com/AlexPasqua/covid19-vax-Italy-analysis.git) | [Algorithms&DataStructures](https://github.com/gaetanoantonicchio/algorithms_and_data_structures.git)
 -  Some of my recent works💻:
-   [NNs-from-scratch](https://github.com/gaetanoantonicchio/NNs-from-scratch.git)
+   [NNs-from-scratch](https://github.com/gaetanoantonicchio/NNs-from-scratch.git) | [Echonest Data Analysis ♫](https://github.com/gaetanoantonicchio/DataMining-2.git)
 
 <!--
 **gaetanoantonicchio/gaetanoantonicchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
