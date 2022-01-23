@@ -5,10 +5,6 @@
 
 ### Hi there 👋
 
-(https://github.com/gaetanoantonicchio/algorithms_and_data_structures.git)
--  Some of my recent works💻:
-   [NNs-from-scratch](https://github.com/gaetanoantonicchio/NNs-from-scratch.git) | [Echonest Data Analysis ♫](https://github.com/gaetanoantonicchio/DataMining-2.git)
-
 <!--
 **gaetanoantonicchio/gaetanoantonicchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
