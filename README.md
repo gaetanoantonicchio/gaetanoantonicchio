@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 * **Master's degree:** I am currently a MSc student in **Data Science and Business Informatics** @ University of _Pisa_
 * **Bachelor's degree:** I graduated in **Business Administration** @ University of Bari<br>
 * **Business Diploma:** I graduated in **International Business Management** @Greystone College Toronto, Canada
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaetanoantonicchio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
